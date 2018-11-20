@@ -1,0 +1,22 @@
+.llamasContainer{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.llamaContainer{
+    text-align: center;
+    margin: 10px;
+    border: solid 0.5px blue;
+    padding: 10px;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav li {
+    display: inline;
+}
